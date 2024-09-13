@@ -1,16 +1,41 @@
-# Phi3 Finetuning with txt/pdf
-2024/08/23
+<h1>Phi3 Finetuning with txt/pdf</h1>
+13/09/2023
 
 Phi3 model finetuning with any document + inference best practices.
 
-Contributors:
+<h2>Contributors</h2>
 
-Yanis BOUCHILLOUX
+<h3>Companies:</h3>
 
-Clément ZHUANG
+<ul>
+<li><a href="https://www.digit-air.com">Digitair</a></li>
+<li>Targech </li>
+<li><a href="https://www.fractal-apps.com">Fractal-Apps</a></li>  
+</ul>
 
-Gilles PLACE (Digit-Air)
+<h3>People</h3>
 
-Florentin DAM (Targech)
+<h4>Main developpers:</h4>
 
-Nicolas MARTIN (Fractal-Apps Pvt Ltd)
+<ul>
+<li>Yanis BOUCHILLOUX</li>
+
+<li>Clément ZHUANG</li>
+</ul>
+
+<h4>Contact:</h4>
+<ul>
+
+
+<li>Gilles PLACE (Digit-Air)</li>
+</ul>
+
+<h4>Supervisors:</h4>
+<ul>
+<li>Florentin DAM (Targech)</li>
+
+<li>Nicolas MARTIN (Fractal-Apps Pvt Ltd)</li>
+  
+</ul>
+
+
